@@ -1,0 +1,2 @@
+
+	quantidade = -1;
