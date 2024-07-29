@@ -1,0 +1,1 @@
+	show_debug_message("current Event = " + string(ev_destroy));
